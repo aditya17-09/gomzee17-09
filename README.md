@@ -1,4 +1,4 @@
-[![MasterHead]([https://camo.githubusercontent.com/b502fb42f215811a5a7a2ae4383646e901a77ca8b71f12dbabc6324f88983c78/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30322f37382f33372f34372f3336305f465f3237383337343733385f7970526e3075744f566e656275686d7053724469776b7a46736471456d3061612e6a7067](https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)](https://gomzee17-09.io)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://gomzee17-09.io)
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate Data Analyst & Data Scientist fresher from India</h3>
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
