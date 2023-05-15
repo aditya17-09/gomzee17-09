@@ -1,7 +1,5 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)](https://gomzee17-09.io)
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate Data Analyst & Data Scientist fresher from India</h3>
-<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gomzee17-09&label=Profile%20views&color=0e75b6&style=flat" alt="gomzee17-09" /> </p>
 
