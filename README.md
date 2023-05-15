@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/adityak03064110" target="blank"><img src="https://img.shields.io/twitter/follow/adityak03064110?logo=twitter&style=for-the-badge" alt="adityak03064110" /></a> </p>
 
-- 🔭 I’m currently working on **Heal~O~Me**
+- 🔭 I’m currently working on **FINDING DONOR ML PROJECT**
 
-- 🌱 I’m currently learning **AWS, SALESFORCE, UI/UX, FLUTTER**
+- 🌱 I’m currently learning **AWS, UI/UX**
 
 - 💬 Ask me about **Machine Learning, UI/UX, Data Analytics**
 
