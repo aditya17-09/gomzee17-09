@@ -33,6 +33,6 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gomzee17-09&icon=5&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gomzee17-09&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
