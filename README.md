@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)](https://gomzee17-09.io)
+[![MasterHead]([https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FJuliapp%2FJuliapp&psig=AOvVaw1SSS1PYi9oMWJQ518nGvbs&ust=1692539097657000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiI2dvt6IADFQAAAAAdAAAAABAO))](https://gomzee17-09.io)
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate Data Analyst & Data Scientist fresher from India</h3>
